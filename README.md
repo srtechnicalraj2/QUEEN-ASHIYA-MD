@@ -98,7 +98,7 @@
 
 *  ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/27761510323"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/923090456850"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a /><br>
 </p>
 
