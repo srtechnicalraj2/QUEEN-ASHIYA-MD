@@ -5,7 +5,7 @@
 
 ----
 
-## I Am 💞 𝚀𝚄𝙴𝙴𝙽 𝙰𝚂𝙷𝙸𝚈𝙰 💞
+## I Am 💞 King rajpoot Shabbir  💞
 
 
 
@@ -93,12 +93,12 @@
 
 ----
 
-<!-- Contact Owner -->
+<!-- Contact Owner -->https://wa.me/+67571033168
 <b><details><summary>Contact</summary></b>
 
 *  ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/6799895127"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/+67571033168"><img src="https://img.shields.io/badge/Contact Mr.Ishan Sandeepa-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a /><br
 </p>
 
