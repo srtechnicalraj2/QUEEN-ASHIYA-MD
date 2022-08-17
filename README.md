@@ -5,7 +5,7 @@
 
 ----
 
-## I Am 💞 King rajpoot Shabbir  💞
+## I Am 💞 𝐐𝐔𝐄𝐄𝐍 𝐀𝐒𝐇𝐈𝐘𝐀  💞
 
 
 
@@ -93,7 +93,7 @@
 
 ----
 
-<!-- Contact Owner -->https://wa.me/+67571033168
+<!-- Contact Owner --
 <b><details><summary>Contact</summary></b>
 
 *  ```Connect With Me```
