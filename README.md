@@ -72,7 +72,7 @@
 <b>👉  මෙතනිම් බොට්ව Deploy 💻 කරන්න...
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https:/srtechnicalraj2/heroku.com/deploy)
 
 
 
